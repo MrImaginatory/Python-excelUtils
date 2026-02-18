@@ -10,7 +10,7 @@ import re
 # Page Configuration
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Excel to JSON & SQL Pro",
+    page_title="Cell to Set",
     page_icon="✨",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -203,7 +203,7 @@ with st.sidebar:
 # -----------------------------------------------------------------------------
 col1, col2, col3 = st.columns([1, 6, 1])
 with col2:
-    st.markdown('<div class="main-header">✨ Excel to JSON & SQL Pro</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">✨ Cell to Set</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-header">Transform your spreadsheets into clean JSON data and SQL queries in seconds.</div>', unsafe_allow_html=True)
 
 # File Uploader Section
