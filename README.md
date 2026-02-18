@@ -52,6 +52,15 @@ A powerful, user-friendly Streamlit web application that transforms Excel spread
 
 ## 🎬 Demo
 
+#### Link to Project [https://python-excelutils-kv3encbbmlyybhedxbqtqq.streamlit.app/](https://python-excelutils-kv3encbbmlyybhedxbqtqq.streamlit.app/)
+
+### Demo Video
+
+<video width="800" controls>
+  <source src="https://raw.githubusercontent.com/MrImaginatory/Python-excelUtils/main/Demo_Video.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 ### Workflow
 
 1. Upload your Excel file (.xlsx or .xls)
