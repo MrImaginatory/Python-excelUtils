@@ -81,7 +81,7 @@ A powerful, user-friendly Streamlit web application that transforms Excel spread
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MrImaginatory/Cell_to_Set.git
    cd Excel_to_Json
    ```
 
