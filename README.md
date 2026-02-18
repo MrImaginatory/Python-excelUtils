@@ -56,10 +56,8 @@ A powerful, user-friendly Streamlit web application that transforms Excel spread
 
 ### Demo Video
 
-<video width="800" controls>
-  <source src="https://raw.githubusercontent.com/MrImaginatory/Python-excelUtils/main/Demo_Video.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Demo]](https://github.com/MrImaginatory/Python-excelUtils/blob/main/Demo_Video.mp4)
+
 
 ### Workflow
 
