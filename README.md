@@ -52,7 +52,7 @@ A powerful, user-friendly Streamlit web application that transforms Excel spread
 
 ## 🎬 Demo
 
-#### Link to Project [https://python-excelutils-kv3encbbmlyybhedxbqtqq.streamlit.app/](https://python-excelutils-kv3encbbmlyybhedxbqtqq.streamlit.app/)
+#### Link to Project [https://cell-to-set.streamlit.app/](https://cell-to-set.streamlit.app/)
 
 ### Demo Video
 
