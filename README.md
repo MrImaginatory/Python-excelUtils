@@ -1,4 +1,4 @@
-# Excel to JSON & SQL Pro ✨
+# Cell to Set ✨
 
 A powerful, user-friendly Streamlit web application that transforms Excel spreadsheets into clean JSON data and SQL queries in seconds.
 
@@ -282,7 +282,7 @@ Generates CREATE TABLE and INSERT INTO SQL statements.
 
 ### Page Configuration
 
-- **Page Title**: "Excel to JSON & SQL Pro"
+- **Page Title**: "Cell to Set"
 - **Page Icon**: ✨
 - **Layout**: Wide
 - **Initial Sidebar State**: Expanded
